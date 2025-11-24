@@ -8,10 +8,10 @@
 > At the same time, I’m a developer who loves having fun with code — whether crafting backend logic, designing smooth front-end experiences, or experimenting with game mechanics in Unity.  
 > I believe great software comes from a mix of **technical excellence**, **curiosity**, and a bit of creative spark. 🚀✨
 
-![GitHub stars](https://img.shields.io/github/stars/tranthanhhoang060391/tranthanhhoang060391?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/tranthanhhoang060391/tranthanhhoang060391?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=tranthanhhoang060391&color=blue)
-![Followers](https://img.shields.io/github/followers/tranthanhhoang060391?style=social)
+![GitHub stars](https://img.shields.io/github/stars/nhidinh91/nhidinh91?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/nhidinh91/nhidinh91?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nhidinh91&color=blue)
+![Followers](https://img.shields.io/github/followers/nhidinh91?style=social)
 
 ---
 
@@ -93,25 +93,25 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tranthanhhoang060391&show_icons=true&theme=radical"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=nhidinh91&show_icons=true&theme=radical"
     height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tranthanhhoang060391&layout=compact&langs_count=6&theme=radical"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=nhidinh91&layout=compact&langs_count=6&theme=radical"
     height="165"
   />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranthanhhoang060391/tranthanhhoang060391/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nhidinh91/nhidinh91/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## Reach out to me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tranthanhhoang060391)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhidinh91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nhi-dinh0609)
 
 ---
