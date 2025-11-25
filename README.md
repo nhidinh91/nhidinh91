@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there!</h1>
 
 ### I'm Nhi! ✨
-<img src="https://github.com/user-attachments/assets/db13b23c-f29c-4475-9e10-4891afcc1659" width="200" align="right" />
+<img src="https://github.com/user-attachments/assets/088426dd-6a46-4029-98d3-6a120f38c127" width="200" align="right" />
 
 > I'm a developer with hands-on experience across modern web, backend, and data-focused technologies.  
 > I work with **React, TypeScript, JavaScript, Vite** on the frontend and **Node.js, Express, Flask** on the backend, building scalable and maintainable applications end to end.  
