@@ -3,10 +3,11 @@
 ### I'm Nhi! ✨
 <img src="https://github.com/user-attachments/assets/db13b23c-f29c-4475-9e10-4891afcc1659" width="200" align="right" />
 
-> I'm a Full-Stack Developer with strong technical expertise in backend architecture, scalable web systems, and modern application development.  
-> I specialize in **PHP (Laravel), Node.js, React.js**, and database-driven design, and I enjoy building clean, efficient, and maintainable solutions.  
-> At the same time, I’m a developer who loves having fun with code — whether crafting backend logic, designing smooth front-end experiences, or experimenting with game mechanics in Unity.  
-> I believe great software comes from a mix of **technical excellence**, **curiosity**, and a bit of creative spark. 🚀✨
+> I'm a developer with hands-on experience across modern web, backend, and data-focused technologies.  
+> I work with **React, TypeScript, JavaScript, Vite** on the frontend and **Node.js, Express, Flask** on the backend, building scalable and maintainable applications end to end.  
+> My experience includes **MongoDB, PostgreSQL, MariaDB**, API design, and workflow tooling like **Docker, Jenkins, GitHub Actions, Gradle, npm, and ESLint**.  
+> I'm also growing my skills in **Android development using Kotlin and Jetpack Compose**, while exploring machine learning with** Python, NumPy, and TensorFlow**.
+> I’m always learning and applying my diverse skillset to create meaningful, high-quality software. 🚀✨
 
 ![GitHub stars](https://img.shields.io/github/stars/nhidinh91/nhidinh91?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/nhidinh91/nhidinh91?style=flat-square)
